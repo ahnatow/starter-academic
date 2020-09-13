@@ -20,17 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-education:
-  courses:
-  - course: PhD in History
-    institution: 
-    year: 
-  - course: BA in French and History, Phi Beta Kappa
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
